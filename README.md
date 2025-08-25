@@ -1,2 +1,2 @@
 # git_practice
-This is the practice repository
+This is the practice repository .
